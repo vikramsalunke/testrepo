@@ -1,4 +1,8 @@
 HI this is the first line
 HI this is second line
 Hi this is third line
+<<<<<<< HEAD
 hi this is forth line
+=======
+Hi this forth line
+>>>>>>> 8d9e5055d552e317d549554d6ad8395b902e8e8f
